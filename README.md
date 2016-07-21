@@ -1,32 +1,14 @@
 # number-to-english-phrase
 
-FIXME: description
-
-## Installation
-
-Download from http://example.com/FIXME.
+The task is to write a CLI that given any number between 0 and 1,000 inclusive, returns the grammatically-correct English phrase for this number (e.g. given 111 it shows "one hundred and eleven", given 21 it shows "twenty-one").
 
 ## Usage
+	
+(parse-number 21) ;;=> should return "twenty-one"
 
 FIXME: explanation
 
     $ java -jar number-to-english-phrase-0.1.0-standalone.jar [args]
-
-## Options
-
-FIXME: listing of options this app accepts.
-
-## Examples
-
-...
-
-### Bugs
-
-...
-
-### Any Other Sections
-### That You Think
-### Might be Useful
 
 ## License
 
