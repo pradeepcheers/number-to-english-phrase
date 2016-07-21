@@ -6,10 +6,6 @@ The task is to write a CLI that given any number between 0 and 1,000 inclusive, 
 	
 (parse-number 21) ;;=> should return "twenty-one"
 
-FIXME: explanation
-
-    $ java -jar number-to-english-phrase-0.1.0-standalone.jar [args]
-
 ## License
 
 Copyright © 2016 FIXME
